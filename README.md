@@ -51,24 +51,3 @@ Improve UI/UX design skills
 
 Implement clipboard functionality
 
-📸 Demo
-
-(Add screenshots here)
-
-📂 Installation
-git clone https://github.com/your-username/password-generator.git
-cd password-generator
-open index.html
-
-
-(If using React, replace with npm install and npm start instructions.)
-
-If you tell me:
-
-Did you add a strength meter?
-
-Did you deploy it (Netlify / Vercel / GitHub Pages)?
-
-Which tech stack you used?
-
-I can refine this into a more resume-focused and recruiter-friendly version.
